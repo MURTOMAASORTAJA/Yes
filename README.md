@@ -12,3 +12,4 @@ Main principles and features:
 - has to be the best so well that the very existence of it insults other drum sequencers
 - inputs and outputs midi for clock and notes
 - everything, knobs, buttons and other interface elements as big and sturdy as they can be
+- best
