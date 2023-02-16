@@ -1,5 +1,5 @@
 # Yes
-## The best drum sequencer in this planet
+## The best drum sequencer in this solar system
 
 ![Yes](https://github.com/MURTOMAASORTAJA/Yes/blob/main/readme.jpg?raw=true)
 
